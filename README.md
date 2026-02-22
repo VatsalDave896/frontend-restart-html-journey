@@ -27,3 +27,24 @@ Unordered list
 Anchor tags (links)
 
 Practiced proper HTML structure
+
+✅ Day 3 – CSS Basics
+
+Introduced external styling using style.css.
+
+Implemented:
+
+Styled navigation bar
+Colored header and footer
+Centered paragraph text
+Modified font styles
+
+Added hover effects on anchor tags
+
+Concepts Practiced:
+
+External CSS linking
+Selectors and properties
+Box model basics
+
+Visual styling fundamentals
