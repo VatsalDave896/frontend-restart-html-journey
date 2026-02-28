@@ -48,3 +48,14 @@ Selectors and properties
 Box model basics
 
 Visual styling fundamentals
+
+✅ Day 4 – Layout Challenge 🎨📐
+
+Built a responsive layout challenge focusing on structure and alignment using CSS.
+
+Objective:
+
+Create three boxes side-by-side using div elements.
+Used Flexbox to align boxes horizontally
+Ensured equal spacing and clean layout structure
+Designed responsive behavior for smaller screen
