@@ -36,3 +36,15 @@ a:hover {
     justify-content: space-evenly;
     background-color:powderblue;
 }
+
+.box-container {
+    display: flex;
+    width: 700px;
+    gap: 20px;
+}
+
+.box-container div {
+    flex: 1;
+    padding: 20px;
+    background-color: lightgray;
+}
