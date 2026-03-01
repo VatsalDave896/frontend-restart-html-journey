@@ -59,3 +59,25 @@ Create three boxes side-by-side using div elements.
 Used Flexbox to align boxes horizontally
 Ensured equal spacing and clean layout structure
 Designed responsive behavior for smaller screen
+
+✅ Day 5 – JavaScript Fun
+
+Introduced JavaScript to add interactivity and dynamic behavior to the webpage.
+
+Implemented:
+Added buttons for user interaction
+On click → dynamically changed text inside a div
+Implemented toggle functionality using a flag variable
+Added Dark Mode feature by toggling background and text colors
+
+Concepts Practiced:
+DOM selection using querySelector()
+Event handling with addEventListener()
+Manipulating text using textContent
+Using flag variables for toggle logic
+Basic style manipulation using JavaScript
+
+Outcome:
+
+Successfully transitioned from static HTML/CSS pages to interactive web pages.
+Built dynamic behavior without following a tutorial, strengthening problem-solving and logic-building skills.
