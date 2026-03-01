@@ -1,4 +1,5 @@
 🚀 Frontend HTML Restart Journey
+
 📌 About This Repository
 
 This repository documents my structured restart of frontend development.
@@ -7,6 +8,7 @@ After a break due to exams and other commitments, I'm rebuilding my foundation s
 The goal is consistency, clarity, and strong fundamentals.
 
 📅 Progress Structure
+
 ✅ Day 1 – Basic HTML Structure
 
 Created a static webpage
