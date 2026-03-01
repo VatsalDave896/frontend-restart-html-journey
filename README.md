@@ -81,3 +81,35 @@ Outcome:
 
 Successfully transitioned from static HTML/CSS pages to interactive web pages.
 Built dynamic behavior without following a tutorial, strengthening problem-solving and logic-building skills.
+
+✅ Day 6 – Mini Self Project 👤
+
+Built a mini “Profile Card” webpage by combining HTML, CSS, and JavaScript concepts learned in previous days.
+
+Implemented:
+
+Profile image with proper folder structure
+Name and professional title
+Short bio section
+Tech stack information
+Contact button using mailto
+Social media links
+Gradient background styling
+Card layout with border-radius and box-shadow
+Hover effects for interactive elements
+
+Concepts Practiced:
+
+Structured layout using div containers
+Image asset management
+CSS styling and visual hierarchy
+Flexbox alignment
+Box-shadow and modern UI styling
+Anchor tags with mailto functionality
+Linking external CSS and JavaScript files
+
+Outcome:
+
+Successfully combined HTML, CSS, and JavaScript into a complete mini project.
+Strengthened understanding of layout design, styling, and project organization.
+Improved confidence in building independent frontend projects.
