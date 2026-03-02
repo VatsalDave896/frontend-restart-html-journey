@@ -115,4 +115,4 @@ Outcome:
 Successfully combined HTML, CSS, and JavaScript into a complete mini project.
 Strengthened understanding of layout design, styling, and project organization.
 
-Improved confidence in building independent frontend projects.
+Improved confidence in building independent frontend projects
