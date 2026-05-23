@@ -199,7 +199,7 @@ Frontend-Restart-Journey/
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 ⭐ Support
 
 If you like this journey or find it inspiring:
