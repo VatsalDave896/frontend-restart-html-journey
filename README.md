@@ -1,118 +1,209 @@
-🚀 Frontend HTML Restart Journey
+# 🚀 Frontend Restart Journey
 
-📌 About This Repository
+> Rebuilding frontend development fundamentals step-by-step with consistency, discipline, and hands-on projects.
 
-This repository documents my structured restart of frontend development.
-After a break due to exams and other commitments, I'm rebuilding my foundation step-by-step starting from core HTML concepts.
+![HTML](https://img.shields.io/badge/HTML5-Learning-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-yellow?style=for-the-badge&logo=javascript)
+![Status](https://img.shields.io/badge/Progress-Active-success?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-Journey-purple?style=for-the-badge)
 
-The goal is consistency, clarity, and strong fundamentals.
+---
 
-📅 Progress Structure
+## 📌 About This Repository
 
-✅ Day 1 – Basic HTML Structure
+This repository documents my structured restart journey in frontend development.
 
-Created a static webpage
+After taking a break due to exams and other commitments, I decided to rebuild my foundation from scratch — focusing on mastering core concepts through daily practice and mini projects.
 
-Used:
+The main goal of this journey is to:
+- Build strong frontend fundamentals
+- Practice consistency
+- Improve logical thinking and problem-solving
+- Create projects independently
+- Track daily progress publicly
 
-Title
-Header
-Paragraph
-Footer
+---
 
-✅ Day 2 – Lists & Links
+# 🛠️ Tech Stack
 
-Added:
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-Ordered list
-Unordered list
-Anchor tags (links)
+---
 
-Practiced proper HTML structure
+# 📅 Daily Progress Log
 
-✅ Day 3 – CSS Basics
+---
 
-Introduced external styling using style.css.
+## ✅ Day 1 — Basic HTML Structure
 
-Implemented:
+Built a simple static webpage using foundational HTML elements.
 
-Styled navigation bar
-Colored header and footer
-Centered paragraph text
-Modified font styles
+### Topics Covered
+- HTML Boilerplate
+- Basic Page Structure
+- Semantic Fundamentals
 
-Added hover effects on anchor tags
+### Elements Used
+- Title
+- Header
+- Paragraph
+- Footer
 
-Concepts Practiced:
+### Outcome
+Developed understanding of how webpages are structured using HTML.
 
-External CSS linking
-Selectors and properties
-Box model basics
+---
 
-Visual styling fundamentals
+## ✅ Day 2 — Lists & Links
 
-✅ Day 4 – Layout Challenge 🎨📐
+Expanded webpage structure using navigation-related elements.
 
-Built a responsive layout challenge focusing on structure and alignment using CSS.
+### Implemented
+- Ordered Lists
+- Unordered Lists
+- Anchor Tags (Links)
 
-Objective:
+### Concepts Practiced
+- Proper HTML nesting
+- Structured content organization
+- Basic navigation building
 
-Create three boxes side-by-side using div elements.
-Used Flexbox to align boxes horizontally
-Ensured equal spacing and clean layout structure
-Designed responsive behavior for smaller screen
+### Outcome
+Improved confidence in writing clean and organized HTML code.
 
-✅ Day 5 – JavaScript Fun
+---
 
-Introduced JavaScript to add interactivity and dynamic behavior to the webpage.
+## ✅ Day 3 — CSS Basics
 
-Implemented:
-Added buttons for user interaction
-On click → dynamically changed text inside a div
-Implemented toggle functionality using a flag variable
-Added Dark Mode feature by toggling background and text colors
+Introduced external styling using `style.css`.
 
-Concepts Practiced:
-DOM selection using querySelector()
-Event handling with addEventListener()
-Manipulating text using textContent
-Using flag variables for toggle logic
-Basic style manipulation using JavaScript
+### Implemented
+- Styled navigation bar
+- Colored header and footer
+- Centered paragraph text
+- Modified font styles
+- Added hover effects on links
 
-Outcome:
+### Concepts Practiced
+- External CSS linking
+- CSS selectors and properties
+- Box model basics
+- Styling fundamentals
 
-Successfully transitioned from static HTML/CSS pages to interactive web pages.
-Built dynamic behavior without following a tutorial, strengthening problem-solving and logic-building skills.
+### Outcome
+Successfully transformed a plain HTML page into a visually styled webpage.
 
-✅ Day 6 – Mini Self Project 👤
+---
 
-Built a mini “Profile Card” webpage by combining HTML, CSS, and JavaScript concepts learned in previous days.
+## ✅ Day 4 — Layout Challenge 🎨📐
 
-Implemented:
+Built a responsive layout challenge focusing on alignment and spacing.
 
-Profile image with proper folder structure
-Name and professional title
-Short bio section
-Tech stack information
-Contact button using mailto
-Social media links
-Gradient background styling
-Card layout with border-radius and box-shadow
-Hover effects for interactive elements
+### Objective
+Create three responsive boxes aligned side-by-side.
 
-Concepts Practiced:
+### Implemented
+- Flexbox layout
+- Horizontal alignment
+- Equal spacing between elements
+- Responsive behavior for smaller screens
 
-Structured layout using div containers
-Image asset management
-CSS styling and visual hierarchy
-Flexbox alignment
-Box-shadow and modern UI styling
-Anchor tags with mailto functionality
-Linking external CSS and JavaScript files
+### Concepts Practiced
+- `display: flex`
+- `justify-content`
+- `align-items`
+- Responsive design basics
 
-Outcome:
+### Outcome
+Strengthened understanding of webpage layouts and responsive structures.
 
-Successfully combined HTML, CSS, and JavaScript into a complete mini project.
-Strengthened understanding of layout design, styling, and project organization.
+---
 
-Improved confidence in building independent frontend projects
+## ✅ Day 5 — JavaScript Fun ⚡
+
+Introduced JavaScript to add interactivity and dynamic webpage behavior.
+
+### Implemented
+- Interactive buttons
+- Dynamic text changes
+- Toggle functionality using flag variables
+- Dark Mode feature
+
+### Concepts Practiced
+- `querySelector()`
+- `addEventListener()`
+- DOM manipulation
+- `textContent`
+- Toggle logic
+- Basic style manipulation
+
+### Outcome
+Successfully transitioned from static webpages to interactive web pages while improving problem-solving and logical thinking skills.
+
+---
+
+## ✅ Day 6 — Mini Self Project 👤
+
+Built a mini “Profile Card” project by combining HTML, CSS, and JavaScript concepts learned in previous days.
+
+### Features
+- Profile image section
+- Professional title
+- Short bio
+- Tech stack display
+- Contact button using `mailto`
+- Social media links
+- Gradient background styling
+- Modern card layout
+- Hover effects and animations
+
+### Concepts Practiced
+- Layout structuring using containers
+- Asset management
+- Flexbox alignment
+- Modern UI styling
+- Box-shadow & border-radius
+- External CSS and JavaScript linking
+
+### Outcome
+Successfully combined HTML, CSS, and JavaScript into a complete mini project and improved confidence in building independent frontend projects.
+
+---
+
+# 🎯 Learning Goals
+
+- Strengthen frontend fundamentals
+- Build projects without tutorials
+- Improve coding consistency
+- Learn responsive web design
+- Prepare for advanced frontend frameworks
+
+---
+
+# 📂 Repository Structure
+
+```bash
+Frontend-Restart-Journey/
+│
+├── Day-1/
+├── Day-2/
+├── Day-3/
+├── Day-4/
+├── Day-5/
+├── Day-6/
+│
+├── assets/
+├── style.css
+├── script.js
+└── README.md
+
+⭐ Support
+
+If you like this journey or find it inspiring:
+
+⭐ Star this repository
+🍴 Fork this repository
+📢 Share feedback and suggestions
